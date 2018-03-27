@@ -1,0 +1,8 @@
+#container canvas {
+    margin: 0px auto;
+    border: 2px dashed red;
+}
+
+body {
+    background-color: black;
+}
